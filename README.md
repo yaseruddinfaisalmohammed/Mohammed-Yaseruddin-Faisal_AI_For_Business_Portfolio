@@ -99,7 +99,7 @@ classification using Natural Language Processing techniques.
 ## Google Drive Portfolio
 
 **Google Drive Folder:**\
-[https://PASTE-YOUR-GOOGLE-DRIVE-PUBLIC-LINK-HERE](https://drive.google.com/drive/folders/1pzWZshGNKg8CxBQ0vvrenflefNPCLRM_?usp=sharing)
+[Link to AI_For_Business Portfolio](https://drive.google.com/drive/folders/1pzWZshGNKg8CxBQ0vvrenflefNPCLRM_?usp=sharing)
 
 ## Technologies Used
 
